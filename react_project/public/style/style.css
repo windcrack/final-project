@@ -1,0 +1,64 @@
+.main{
+    max-width: 1440px;
+    margin: 0 auto;
+}
+
+.hide{
+    display: none;
+}
+
+.active{
+    color: red;
+}
+
+.text{
+    margin-top: 12px;
+}
+
+.main-link{
+    display: flex;
+    max-width: 400px;
+    justify-content: space-between;
+    margin-top: 12px;
+    flex-wrap: wrap;
+}
+
+.form-node-hash{
+    margin-top: 12px;
+    display: flex;
+    flex-direction: column;
+}
+
+.form-node-hash input{
+    margin: 12px 0;
+}
+
+.center{
+    margin: auto;
+}
+
+.enter-form-note{
+    margin-top: 12px;
+}
+
+.enter-form-note {
+    display: flex;
+    flex-direction: column;
+}
+
+.note-label{
+    margin: 12px 0;
+}
+
+.note-create{
+    margin: 12px auto 0;
+}
+
+.text-danger{
+    margin: 12px 0;
+}
+
+.navbar{
+    border-radius: 5px;
+    margin: 12px 0;
+}
